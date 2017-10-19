@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Longbin Lai"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "I am now a PostDoc in the Database group, UNSW, Sydney. My interests include graph algorithms, database system and management, distributed data engines."
   location         : "Sydney, Australia"
   employer         :
