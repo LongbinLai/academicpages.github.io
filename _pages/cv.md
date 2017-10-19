@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Science of Engineering, Shanghai Jiao Tong University, 2010
+* M.S. in Engineering, Shanghai Jiao Tong University, 2013
+* Ph.D in Computer Science, University of New South Wales, Sydney, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter/Spring 2017: Technical Intern
+  * Google Inc. Mountain View
+  * Duties included: Designed and implemented an emulator that simulates the Google backbone network and the routing strategies for testing, debugging and routing validation.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan.-Dec. 2012: 
+  * Alibaba Cloud Computing Corporation
+  * Duties included: (1) Designed and implemented a web recommendation system based on Alibaba cloud computing system (MapReduce-like system), which serves over 1000 top websites in China; (2) improved the throughput of the recommendation system to over 2 billion records per hour via a well-designed MapReduce data flow; (3) Implemented a prototype of web classification algorithm that is twice faster than existing algorithm by solely using the url of the web page.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Java (Expert), C++ (Expert), Python (Prior Experienced), Scala (Prior Experienced) and Rust (Prior Experienced)
+* Big Data
+  * Hadoop (Expert), Spark (Proficient), Giraph (Prior Experienced)
+* Machine Learning
+  * TensorFlow (Proficient)
+* Web
+  * Yii2 on PHP, Django on Python
 
 Publications
 ======
@@ -54,6 +54,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
