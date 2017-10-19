@@ -40,13 +40,13 @@ Skills
 
 Publications
 ======
-  <ol style="color: inherit; font-weight: normal">{% for post in site.publications %}
+  <ol>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
   
 Teaching
 ======
-  <ol style="color: inherit; font-weight: normal">{% for post in site.teaching %}
+  <ol>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
 
