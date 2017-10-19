@@ -7,6 +7,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+FYI
+======
 Please find my complete CV [here](https://longbinlai.github.io/files/cv.pdf).
 
 Education
