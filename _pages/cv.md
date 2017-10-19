@@ -40,15 +40,15 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ol style="color: inherit; font-weight: normal">{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ol style="color: inherit; font-weight: normal">{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
 
 Talks
 ======
