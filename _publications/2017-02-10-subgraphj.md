@@ -7,4 +7,4 @@ venue: 'The VLDB Journal 26(3)'
 paperurl: 'http://longbinlai.github.io/files/subgraphj.pdf'
 ---
 
-This paper extends the VLDB15 paper to include the data-graph compression technique via structural symmetry.
+This paper extended the VLDB15 paper to include the data-graph compression technique via structural symmetry.
