@@ -1,5 +1,5 @@
 ---
-title: "Scalable Distributed Subgraph Enumeration"
+title: "Scalable Distributed Subgraph Enumeration (Tech Report)"
 collection: publications
 permalink: /publication/2017-03-20-subgenum-tech
 date: 2017-02-20
